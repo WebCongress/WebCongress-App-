@@ -1,0 +1,27 @@
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes.dex : \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/BuildConfig.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/R$attr.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/R$drawable.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/R$string.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/R$xml.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/R.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/com/webcongress/wapp/WebCongress.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/gustavo/WebCongress/github/WebCongress-App-/WebCongress/platforms/android/ant-build/dexedLibs/classes-7e217f6b7897f52f341efb935c9d9496.jar \

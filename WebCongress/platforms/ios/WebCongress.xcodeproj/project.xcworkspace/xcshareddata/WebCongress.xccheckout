@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4C54204-16A0-4D2B-9680-747FA6B87805</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WebCongress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67E516C0-FE16-4DD0-BE14-DC7ED6E6ABC2</key>
+		<string>https://github.com/WebCongress/WebCongress-App-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebCongress/platforms/ios/WebCongress.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67E516C0-FE16-4DD0-BE14-DC7ED6E6ABC2</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WebCongress/WebCongress-App-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67E516C0-FE16-4DD0-BE14-DC7ED6E6ABC2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67E516C0-FE16-4DD0-BE14-DC7ED6E6ABC2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WebCongress-App-Live</string>
+		</dict>
+	</array>
+</dict>
+</plist>

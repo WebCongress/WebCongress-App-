@@ -1,0 +1,50 @@
+2014-07-29 12:17:09.284 WebCongress[4160:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-29 12:17:10.130 WebCongress[4160:70b] Unlimited access to network resources
+2014-07-29 12:17:11.771 WebCongress[4160:70b] [CDVTimer][keyboard] 11.108994ms
+2014-07-29 12:17:11.772 WebCongress[4160:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-29 12:17:11.772 WebCongress[4160:70b] [CDVTimer][statusbar] 0.434995ms
+2014-07-29 12:17:11.773 WebCongress[4160:70b] [CDVTimer][TotalPluginStartup] 12.439013ms
+2014-07-29 12:17:13.551 WebCongress[4160:70b] Resetting plugins due to page load.
+2014-07-29 12:17:15.751 WebCongress[4160:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FCC9F648-4A33-4CB3-9E94-D2058A732163/WebCongress.app/www/index.html#/app/feed
+2014-07-29 12:36:14.218 WebCongress[4396:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-29 12:36:14.278 WebCongress[4396:70b] Unlimited access to network resources
+2014-07-29 12:36:14.593 WebCongress[4396:70b] [CDVTimer][keyboard] 0.108004ms
+2014-07-29 12:36:14.594 WebCongress[4396:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-29 12:36:14.594 WebCongress[4396:70b] [CDVTimer][statusbar] 0.747025ms
+2014-07-29 12:36:14.595 WebCongress[4396:70b] [CDVTimer][TotalPluginStartup] 2.251983ms
+2014-07-29 12:36:17.156 WebCongress[4396:70b] Resetting plugins due to page load.
+2014-07-29 12:36:17.741 WebCongress[4396:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FCC9F648-4A33-4CB3-9E94-D2058A732163/WebCongress.app/www/index.html#/app/feed
+2014-07-29 16:17:52.458 WebCongress[7227:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-29 16:17:52.671 WebCongress[7227:70b] Unlimited access to network resources
+2014-07-29 16:17:54.926 WebCongress[7227:70b] [CDVTimer][keyboard] 32.972038ms
+2014-07-29 16:17:54.926 WebCongress[7227:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-29 16:17:54.927 WebCongress[7227:70b] [CDVTimer][statusbar] 0.447989ms
+2014-07-29 16:17:54.927 WebCongress[7227:70b] [CDVTimer][TotalPluginStartup] 34.460962ms
+2014-07-29 16:17:55.696 WebCongress[7227:70b] Resetting plugins due to page load.
+2014-07-29 16:17:56.609 WebCongress[7227:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FCC9F648-4A33-4CB3-9E94-D2058A732163/WebCongress.app/www/index.html#/app/feed
+2014-08-08 15:17:28.663 WebCongress[1083:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 15:17:29.076 WebCongress[1083:70b] Unlimited access to network resources
+2014-08-08 15:17:32.802 WebCongress[1083:70b] [CDVTimer][keyboard] 0.073016ms
+2014-08-08 15:17:32.802 WebCongress[1083:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-08 15:17:32.803 WebCongress[1083:70b] [CDVTimer][statusbar] 0.400007ms
+2014-08-08 15:17:32.803 WebCongress[1083:70b] [CDVTimer][TotalPluginStartup] 1.460969ms
+2014-08-08 15:17:33.114 WebCongress[1083:70b] Resetting plugins due to page load.
+2014-08-08 15:17:33.852 WebCongress[1083:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/60DDD0D1-45B1-41A8-BC5F-CCF80B79890F/WebCongress.app/www/index.html#/app/feed
+2014-08-08 15:17:34.170 WebCongress[1083:70b] THREAD WARNING: ['Device'] took '19.747070' ms. Plugin should use a background thread.
+2014-08-08 15:19:11.608 WebCongress[1323:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 15:19:11.619 WebCongress[1323:70b] Unlimited access to network resources
+2014-08-08 15:19:11.637 WebCongress[1323:70b] [CDVTimer][keyboard] 0.081003ms
+2014-08-08 15:19:11.638 WebCongress[1323:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-08 15:19:11.638 WebCongress[1323:70b] [CDVTimer][statusbar] 0.504017ms
+2014-08-08 15:19:11.639 WebCongress[1323:70b] [CDVTimer][TotalPluginStartup] 1.661003ms
+2014-08-08 15:19:11.749 WebCongress[1323:70b] Resetting plugins due to page load.
+2014-08-08 15:19:11.902 WebCongress[1323:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/60DDD0D1-45B1-41A8-BC5F-CCF80B79890F/WebCongress.app/www/index.html#/app/feed
+2014-08-14 12:00:55.426 WebCongress[3814:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 12:00:55.994 WebCongress[3814:70b] Unlimited access to network resources
+2014-08-14 12:00:59.374 WebCongress[3814:70b] [CDVTimer][keyboard] 0.164986ms
+2014-08-14 12:00:59.375 WebCongress[3814:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 12:00:59.376 WebCongress[3814:70b] [CDVTimer][statusbar] 0.826001ms
+2014-08-14 12:00:59.377 WebCongress[3814:70b] [CDVTimer][TotalPluginStartup] 2.787054ms
+2014-08-14 12:01:00.046 WebCongress[3814:70b] Resetting plugins due to page load.
+2014-08-14 12:01:00.882 WebCongress[3814:70b] Finished load of: file:///Users/gustavo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/60DDD0D1-45B1-41A8-BC5F-CCF80B79890F/WebCongress.app/www/index.html#/app/feed
+2014-08-14 12:01:01.231 WebCongress[3814:70b] THREAD WARNING: ['Device'] took '17.917725' ms. Plugin should use a background thread.

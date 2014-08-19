@@ -1,0 +1,30 @@
+<style type="text/css">
+.item-body p {
+    margin-top: 0;
+}
+</style>
+<ion-view title="Twitter Feed">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+
+        <div class="list card nav-title-slide-ios7" ng-repeat="tweet in tweets">
+
+            <div class="item item-avatar">
+                <img src="{{tweet.user.profile_image_url}}">
+                <h2>{{tweet.user.name}}</h2>
+                <p>@{{tweet.user.screen_name}}</p>
+            </div>
+
+            <div class="item item-body">
+                <p>
+                    {{tweet.text}}
+                </p>
+            </div>
+
+        </div>
+
+    </ion-content>
+</ion-view>
+
